@@ -1,9 +1,3 @@
-## Original Project by @T3SL4 - Maintened by @MRX7014
-###
-# begin product/etc/build.prop
-###
-
-# begin common build properties
 ro.product.brand=samsung
 ro.product.device=e3q
 ro.product.manufacturer=samsung
@@ -14,144 +8,11 @@ ro.product.product.device=e3q
 ro.product.product.manufacturer=samsung
 ro.product.product.model=SM-S928B
 ro.product.product.name=e3q
-ro.product.name_for_attestation=barbet
-ro.product.build.date=Fri Sep 27 19:37:52 KST 2024
-ro.product.build.date.utc=1727433472
 ro.product.build.fingerprint=samsung/e3q/e3q:14/UP1A.231005.007/S928BXXS3AXI7:user/release-keys
 ro.product.build.id=UP1A.231005.007
-ro.product.build.tags=release-keys
-ro.product.build.type=user
 ro.product.build.version.incremental=S928BXXS3AXI7
-ro.product.build.version.release=14
-ro.product.build.version.release_or_codename=14
-ro.product.build.version.sdk=34
 ro.soc.manufacturer=Qualcomm
 ro.soc.model=SM8650-AC
 ro.gpu.model=Adreno750
 ro.gpu=Adreno750
 ro.hardware.chipname=Pineapple
-# end common build properties
-
-# begin PRODUCT_BOOTIMAGE_PROPERTIES
-ro.product.bootimage.brand=samsung
-ro.product.bootimage.device=e3q
-ro.product.bootimage.manufacturer=samsung
-ro.product.bootimage.model=SM-S928B
-ro.product.bootimage.name=e3q
-ro.bootimage.build.date=Fri Sep 27 19:37:52 KST 2024
-ro.bootimage.build.date.utc=1727433472
-ro.bootimage.build.fingerprint=samsung/e3q/e3q:14/UP1A.231005.007/S928BXXS3AXI7:user/release-keys
-ro.bootimage.build.id=UP1A.231005.007
-ro.bootimage.build.tags=release-keys
-ro.bootimage.build.type=user
-ro.bootimage.build.version.incremental=S928BXXS3AXI7
-ro.bootimage.build.version.release=14
-ro.bootimage.build.version.release_or_codename=14
-ro.bootimage.build.version.sdk=34
-# end PRODUCT_BOOTIMAGE_PROPERTIES
-###
-# end product/etc/build.prop
-###
-
-###
-# begin vendor/build.prop
-###
-# begin common build properties
-ro.product.vendor.brand=samsung
-ro.product.vendor.device=e3q
-ro.product.vendor.manufacturer=samsung
-ro.product.vendor.model=SM-S928B
-ro.product.vendor.name=e3q
-ro.vendor.build.date=Fri Sep 27 19:37:52 KST 2024
-ro.vendor.build.date.utc=1727433472
-ro.vendor.build.fingerprint=samsung/e3q/e3q:14/UP1A.231005.007/S928BXXS3AXI7:user/release-keys
-ro.vendor.build.id=UP1A.231005.007
-ro.vendor.build.tags=release-keys
-ro.vendor.build.type=user
-ro.vendor.build.version.incremental=S928BXXS3AXI7
-ro.vendor.build.version.release=14
-ro.vendor.build.version.release_or_codename=14
-ro.vendor.build.version.sdk=34
-# end common build properties
-###
-# end vendor/build.prop
-###
-
-###
-# begin vendor/odm/etc/build.prop
-###
-# begin common build properties
-ro.product.odm.brand=samsung
-ro.product.odm.device=e3q
-ro.product.odm.manufacturer=samsung
-ro.product.odm.model=SM-S928B
-ro.product.odm.name=e3q
-ro.odm.build.date=Fri Sep 27 19:37:52 KST 2024
-ro.odm.build.date.utc=1727433472
-ro.odm.build.fingerprint=samsung/e3q/e3q:14/UP1A.231005.007/S928BXXS3AXI7:user/release-keys
-ro.odm.build.id=UP1A.231005.007
-# end common build properties
-###
-# end vendor/odm/etc/build.prop
-###
-
-###
-# begin system/system/build.prop
-###
-# begin common build properties
-ro.product.system.brand=samsung
-ro.product.system.device=e3q
-ro.product.system.manufacturer=samsung
-ro.product.system.model=SM-S928B
-ro.product.system.name=e3q
-ro.system.build.date=Fri Sep 27 19:37:52 KST 2024
-ro.system.build.date.utc=1727433472
-ro.system.build.fingerprint=samsung/e3q/e3q:14/UP1A.231005.007/S928BXXS3AXI7:user/release-keys
-ro.system.build.id=UP1A.231005.007
-ro.system.build.tags=release-keys
-ro.system.build.type=user
-# end common build properties
-
-# begin build properties
-ro.build.date=Fri Sep 27 19:37:52 KST 2024
-ro.build.date.utc=1727433472
-ro.build.fingerprint=samsung/e3q/e3q:14/UP1A.231005.007/S928BXXS3AXI7:user/release-keys
-ro.build.id=UP1A.231005.007
-ro.build.display.id=UP1A.231005.007.S928BXXS3AXI7
-ro.build.type=user
-ro.build.user=android-build
-ro.build.host=SWDK6305
-ro.build.tags=release-keys
-ro.build.flavor=e3q-user
-ro.build.product=e3q
-ro.build.description=e3q-user 14 UP1A.231005.007 S928BXXS3AXI7 release-keys
-ro.build.version.incremental=S928BXXS3AXI7
-# end build properties
-
-# Samsung Specific Properties
-ro.build.PDA=S928BXXS3AXI7
-# Samsung Specific Properties
-
-###
-# end system/system/build.prop
-###
-
-###
-# begin system_ext/etc/build.prop
-###
-# begin common build properties
-ro.product.system_ext.brand=samsung
-ro.product.system_ext.device=e3q
-ro.product.system_ext.manufacturer=samsung
-ro.product.system_ext.model=SM-S928B
-ro.product.system_ext.name=e3q
-ro.system_ext.build.date=Fri Sep 27 19:37:52 KST 2024
-ro.system_ext.build.date.utc=1727433472
-ro.system_ext.build.fingerprint=samsung/e3q/e3q:14/UP1A.231005.007/S928BXXS3AXI7:user/release-keys
-ro.system_ext.build.id=UP1A.231005.007
-ro.system_ext.build.tags=release-keys
-ro.system_ext.build.type=user
-# end common build properties
-###
-# end system_ext/etc/build.prop
-###
