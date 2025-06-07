@@ -5,3 +5,4 @@
 - Fix Camera issues in some devices ( Specially in MIUI )
 - Fix SuperFastCharging issues in MIUI devices ( Specially with China Software)
 - Add Update Button
+- Change installation UI
