@@ -1,6 +1,7 @@
 id=S24U_Spoofer
 name=S24 Ultra Spoofer - AllDevices Version
-version=v6.0.0
-versionCode=6
+version=v6.1.0
+versionCode=610
 author=MRX7014
 description=Spoof your device to S24Ultra "SM-S928B" [S928BXXU4BYD9]
+updateJson=https://raw.githubusercontent.com/MRX7014/S24Ultra-Spoofer/alldevices/update.json

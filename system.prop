@@ -1,9 +1,3 @@
-ro.product.brand=samsung
-ro.product.device=e3q
 ro.product.manufacturer=samsung
 ro.product.model=SM-S928B
-ro.product.name=Samsung S24 Ultra
 ro.product.product.model=SM-S928B
-ro.product.build.fingerprint=samsung/e3q/e3q:15/AP3A.240905.015.A2/S928BXXU4BYD9:user/release-keys
-ro.product.build.id=AP3A.240905.015.A2
-ro.product.build.version.incremental=S928BXXU4BYD9
