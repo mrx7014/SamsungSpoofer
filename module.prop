@@ -1,7 +1,7 @@
 id=S24U_Spoofer
 name=S24 Ultra Spoofer - AllDevices Version
-version=v6.1.0
-versionCode=610
+version=v6.2.0
+versionCode=620
 author=MRX7014
 description=Spoof your device to S24Ultra
 updateJson=https://raw.githubusercontent.com/MRX7014/S24Ultra-Spoofer/alldevices/update.json

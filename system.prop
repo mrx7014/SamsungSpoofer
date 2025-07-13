@@ -1,3 +1,6 @@
 ro.product.manufacturer=samsung
-ro.product.model=SM-S928B
+ro.product.name=SM-S928B
+ro.product.model=Samsung S24 Ultra
 ro.product.product.model=SM-S928B
+ro.build.fingerprint=samsung/e3q/e3q:15/AP3A.240905.015.A2/S928BXXU4BYD9:user/release-keys
+ro.build.display.id=AP3A.240905.015.A2.S928BXXU4BYD9.MRX7014
