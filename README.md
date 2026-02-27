@@ -1,7 +1,7 @@
 # SamsungSpoofer Modules
 
 ## 📌 What is SamsubgSpoofer?  
-A **Magisk Modules** that spoofs your device as S24U,S25U, or TabS10Ultra to unlock exclusive features.
+A **Magisk Modules** that spoofs your device as S24U,S25U,S26U or TabS10Ultra to unlock exclusive features.
 
 ## Note
 - Supports All Android Versions and All Android Devices
@@ -14,7 +14,8 @@ A **Magisk Modules** that spoofs your device as S24U,S25U, or TabS10Ultra to unl
 > 1. Ensure **Magisk, KSU, KSU-Next, APatch** is installed on your device.  
 > 2. Download the spoofer you want:  
 > - **S24USpoofer**
-> - **S25USpoofer**  
+> - **S25USpoofer**
+> - **S26USpoofer**
 > - **TabS10UltraSpoofer**
 > 3. Open **Magisk Manager** > Go to "Modules" > Tap "+" > Select the downloaded file.  
 > 4. Wait for the installation to complete, then reboot your device.  

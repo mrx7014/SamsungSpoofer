@@ -1,0 +1,17 @@
+# Don't Use Without Permissions ©
+ro.product.device=m3q
+ro.product.system.brand=Samsung
+ro.product.system.manufacturer=Samsung
+ro.product.product.manufacturer=Samsung
+ro.system.manufacturer=Samsung
+ro.product.model=SM-S948B
+ro.product.name=Samsung S26 Ultra
+ro.product.product.device=pa3q
+ro.product.product.model=SM-S948B
+ro.product.brand=Samsung
+ro.product.product.name=Samsung S26 Ultra
+ro.product.brand_for_attestation=samsung
+ro.product.device_for_attestation=m3q
+ro.product.manufacturer_for_attestation=Samsung
+ro.product.model_for_attestation=SM-S948B
+ro.product.name_for_attestation=Samsung S26 Ultra
